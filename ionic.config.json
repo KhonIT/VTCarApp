@@ -1,0 +1,8 @@
+{
+  "name": "VTCarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d9731a58"
+}
